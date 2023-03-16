@@ -1,10 +1,11 @@
 // Write your code in this file!
-const currentUser = 'Grace Hopper!';
+const currentUser = 'Derrick!';
 
 const welcomeMessage = 'Welcome to Flatbook, ' + currentUser;
 
 const excitedWelcomeMessage = welcomeMessage.toUpperCase();
 
- const shortGreeting = 'Welcome, ${currentUser.slice(G)}`!';
+ const shortGreeting = 'Welcome, ${currentUser.slice(D)}`!';
+
 
 
